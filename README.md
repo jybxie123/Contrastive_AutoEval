@@ -3,8 +3,8 @@
 
 
 ### Statement
-This repository is forked from the first author Pengr(https://github.com/pengr). As the fourth author, I followed him, and fork this paper's project here.
-To see the original project, please go to: https://github.com/pengr/Contrastive_AutoEval
+This repository is built by the first author Pengr(https://github.com/pengr). As the fourth author, I followed him and forked this paper's project here.
+To see the original one, please go to: https://github.com/pengr/Contrastive_AutoEval
 
 ## PyTorch Implementation
 
