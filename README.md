@@ -59,7 +59,7 @@ Please follow the instruction below to install it and run the experiment demo.
     python run.py
     ```
     
-2. Creat Meta-set
+2. Create Meta-set
     ```bash
     # By default it creates 400 sample sets
     python meta_set/synthesize_set_cifar.py
