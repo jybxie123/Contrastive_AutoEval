@@ -2,6 +2,10 @@
 ![](https://github.com/pengr/Contrastive_AutoEval/blob/master/Our_Model.png)
 
 
+### Statement
+This repository is forked from the first author Pengr(https://github.com/pengr). As the fourth author, I followed him, and fork this paper's project here.
+To see the original project, please go to: https://github.com/pengr/Contrastive_AutoEval
+
 ## PyTorch Implementation
 
 This repository contains:
